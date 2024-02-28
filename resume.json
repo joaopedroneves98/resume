@@ -1,0 +1,296 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "João Neves",
+    "label": "Software Developer",
+    "image": "https://avatars.githubusercontent.com/u/42605490?v=4",
+    "email": "jneves98@outlook.com",
+    "summary": "Software Engineer with 3+ years of experience in developing and deploying applications using .NET and other technologies. Always trying to improve my technical and soft skills, to contribute to a great working environment with my team.",
+    "location": {
+      "city": "Porto",
+      "countryCode": "PT"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "joaopedroneves98",
+        "url": "https://github.com/joaopedroneves98"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jpvneves",
+        "url": "https://www.linkedin.com/in/jpvneves/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Farfetch",
+      "location": "Porto, PT",
+      "description": "The Global Destination For Modern Luxury",
+      "position": "Junior Software Engineer - Back End",
+      "url": "https://www.farfetch.com",
+      "startDate": "2020-03",
+      "endDate": "2024-02",
+      "summary": "Since March 2020, I’ve been an integral part of the Logistics area. My responsibilities include designing, documenting and implementing services that seamlessly connect the Farfetch platform with various courier APIs (such as DHL, FedEx and UPS), taking part in meetings and aligning developments with these external companies. Helping Farfetch optimize the costs associated with the delivery of products and enhancing the customer experience.",
+      "highlights": [
+        "C#",
+        ".NET Framework/Core",
+        "Docker",
+        "Git (Gitlab)",
+        "Microsoft SQL Server",
+        "Kubernetes",
+        "Jenkins",
+        "Jira",
+        "Confluence",
+        "Apache Kafka",
+        "Scrum/Kanban",
+        "MongoDB",
+        "Kibana",
+        "Coralogix",
+        "New Relic",
+        "Grafana"
+      ]
+    },
+    {
+      "name": "Capgemini Engineering",
+      "location": "Porto, PT",
+      "description": "The Global Destination For Modern Luxury",
+      "position": "Consultant/Engineer",
+      "url": "https://www.farfetch.com",
+      "startDate": "2022-02",
+      "endDate": "2023-09",
+      "summary": "In March 2020, I joined the Farfetch project, as an external employee and was part of Capgemini Engineering until I was internalized as a Farfetcher, in September 2023.",
+      "highlights": [
+        "C#",
+        ".NET Framework/Core",
+        "Docker",
+        "Git (Gitlab)",
+        "Microsoft SQL Server",
+        "Kubernetes",
+        "Jenkins",
+        "Jira",
+        "Confluence",
+        "Apache Kafka",
+        "Scrum/Kanban",
+        "MongoDB",
+        "Kibana",
+        "Coralogix",
+        "New Relic",
+        "Grafana"
+      ]
+    },
+    {
+      "name": "Capgemini Engineering",
+      "location": "Porto, PT",
+      "description": "The Global Destination For Modern Luxury",
+      "position": "Junior Consultant/Engineer",
+      "url": "https://www.farfetch.com",
+      "startDate": "2019-09",
+      "endDate": "2022-02",
+      "summary": "Worked at Capgemini Engineering initially as an intern, taking part in an internal academy for recent graduates.",
+      "highlights": [
+        "C#",
+        ".NET Framework/Core",
+        "Docker",
+        "Git (Gitlab)",
+        "Microsoft SQL Server",
+        "Kubernetes",
+        "Jenkins",
+        "Jira",
+        "Confluence",
+        "Apache Kafka",
+        "Scrum/Kanban",
+        "MongoDB",
+        "Kibana",
+        "Coralogix",
+        "New Relic",
+        "Grafana",
+        "Java",
+        "Angular",
+        "React",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Zaask",
+      "location": "Porto, PT",
+      "description": "Online marketplace for services.",
+      "position": "Web Developer Intern",
+      "url": "https://www.zaask.pt/",
+      "startDate": "2019-02",
+      "endDate": "2019-06",
+      "summary": "Designed and developed a microservice that provided translations for the Zaask website, as well as a back office application where those translations could be submitted by translators (using Laravel and React).",
+      "highlights": [
+        "Laravel",
+        "PHP",
+        "MongoDB",
+        "React",
+        "Jira",
+        "Git",
+        "Kanban",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "MASDIMA",
+      "location": "Porto, PT",
+      "description": "MASDIMA  is a system that aims to manage the operation of airlines, flights and monitoring the unexpected events that may affect and cause flight delays.",
+      "position": "Xamarin App Developer",
+      "url": "http://masdima.pt/",
+      "startDate": "2018-05",
+      "endDate": "2019-01",
+      "summary": "Contributed to the design and development of an existing mobile Xamarin application, that would be used by airline operators and help them track their flights worldwide, as well as help them make decisions when a disruption was to happen.",
+      "highlights": [
+        "Xamarin",
+        "Azure Devops Server",
+        "Android",
+        "C#",
+        "XAML"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Superior de Engenharia do Porto",
+      "url": "https://www.isep.ipp.pt/",
+      "area": "Computer Software Engineering",
+      "studyType": "Degree",
+      "startDate": "2016-09",
+      "endDate": "2019-06",
+      "score": "14.0",
+      "courses": [
+        "Informatics Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "C#",
+        "Java",
+        ".NET Core",
+        ".NET Framework",
+        "PHP",
+        "Laravel",
+        "Spring Boot"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "React",
+        "Angular",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": [
+        "Xamarin"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "",
+      "keywords": [
+        "Microsoft SQL Server",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "",
+      "keywords": [
+        "New Relic",
+        "Grafana",
+        "Coralogix",
+        "Kibana"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "keywords": [
+        "Git",
+        "Jira",
+        "Confluence",
+        "Apache Kafka",
+        "Jenkins",
+        "Scrum",
+        "Kanban",
+        "Docker",
+        "Kubernetes",
+        "ArgoCD",
+        "Azure Devops Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "API Security Fundamentals",
+      "issuer": "APISec University",
+      "startDate": "2024-02",
+      "url": "https://www.credly.com/badges/c0e30cb9-a2fb-41c2-af3c-981b812a6eaf"
+    },
+    {
+      "name": "Apache Kafka Series - Learn Apache Kafka for Beginners V3",
+      "issuer": "Udemy",
+      "startDate": "2024-01",
+      "url": "https://ude.my/UC-9019e388-314d-439c-84ef-83a56e62dfbe"
+    },
+    {
+      "name": "ASP.NET Core 6 Web API Fundamentals",
+      "issuer": "Pluralsight",
+      "startDate": "2023-03"
+    },
+    {
+      "name": "Getting Started with ArgoCD",
+      "issuer": "Pluralsight",
+      "startDate": "2022-10"
+    },
+    {
+      "name": "Kubernetes: Basic Architecture and First Deployment",
+      "issuer": "Coursera",
+      "startDate": "2022-05"
+    },
+    {
+      "name": "C# COMPLETO 2020 Programação Orientada a Objetos + Projetos",
+      "issuer": "Udemy",
+      "startDate": "2020-03",
+      "url": "http://ude.my/UC-1d2e631e-dd3e-4516-a946-a9c962bf58a2"
+    },
+    {
+      "name": "Microsoft SQL for Beginners",
+      "issuer": "Udemy",
+      "startDate": "2020-03",
+      "url": "http://ude.my/UC-1d2e631e-dd3e-4516-a946-a9c962bf58a2"
+    },
+    {
+      "name": "First Certificate in English",
+      "issuer": "University of Cambridge",
+      "startDate": "2013-11"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "even"
+  }
+}
