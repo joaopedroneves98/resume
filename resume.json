@@ -20,7 +20,17 @@
         "network": "LinkedIn",
         "username": "jpvneves",
         "url": "https://www.linkedin.com/in/jpvneves/"
-      }
+      },
+      {
+        "network": "Signal",
+        "username": "jneves.98",
+        "url": "https://signal.me/#eu/ZU5t5aN1scjV3N-4a7_fHskgrZWD3qtD0BUErEJ8gVSMzXZtu4lN6Z_mpCefMGu0"
+      },
+      {
+        "network": "Telegram",
+        "username": "jpneves98",
+        "url": "https://t.me/jpneves98"
+      } 
     ]
   },
   "work": [
@@ -49,7 +59,8 @@
         "Kibana",
         "Coralogix",
         "New Relic",
-        "Grafana"
+        "Grafana",
+        "Cassandra"
       ]
     },
     {
@@ -77,7 +88,8 @@
         "Kibana",
         "Coralogix",
         "New Relic",
-        "Grafana"
+        "Grafana",
+        "Cassandra"
       ]
     },
     {
@@ -109,7 +121,8 @@
         "Java",
         "Angular",
         "React",
-        "Javascript"
+        "Javascript",
+        "Cassandra"
       ]
     },
     {
@@ -200,7 +213,8 @@
       "level": "",
       "keywords": [
         "Microsoft SQL Server",
-        "MongoDB"
+        "MongoDB",
+        "Cassandra"
       ]
     },
     {
